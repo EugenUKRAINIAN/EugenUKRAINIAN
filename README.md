@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EugenUKRAINIAN
+- 👋 Hi, I’m Eugen
 - 👀 I’m interested in WebDev technology, crypto, NFT, smart contracts ...
 - 🌱 I’m currently learning JS, React, React Native, 
 - 💞️ I’m looking to collaborate on non-standard and progressive projects
